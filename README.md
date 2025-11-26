@@ -3,11 +3,11 @@
 Submitted by: **Mingzhu Shi**
 
 This web app: **A social app that helps people discover hiking trails, share their hiking experiences, and connect with a community of fellow nature lovers.**
-- Full Stack Project using React and Supabase
+- Full Stack Project using React, Supabase, Material UI
 
 ![Supabase Schema](src/assets/supabase-schema-HikeConnect.png)
 
-Time spent: **36+** hours spent in total
+Time spent: **40+** hours spent in total
 
 ## Required Features
 
